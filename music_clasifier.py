@@ -166,7 +166,3 @@ def compute_confusion_matrix(test_features, test_labels, weights, bias):
 
 confusion_matrix = compute_confusion_matrix(test_features, test_labels, weights, bias)
 print(f"Confusion matrix:\n {confusion_matrix}")
-
-
-
-#This is a test for github :)
